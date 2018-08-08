@@ -1,4 +1,4 @@
-# small_projects
+# Small Projects
 
 This repo contains small projects (less than one week / 1000 lines of code). Usually I'm trying to learn a tool or certain skill.
 
